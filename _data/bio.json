@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Front-End Web Development" },
     { "name": "Software Development" },
     { "name": "Interactive media" },
+    { "name": "Web development" },
   ],
   "skills": [
     {
