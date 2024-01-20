@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Software Development" },
-    { "name": "Interactive media" },
+    { "name": "Software development" },
     { "name": "Web development" },
+    { "name": "Interactive media" },
   ],
   "skills": [
     {
