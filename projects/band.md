@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SJB/band.heic
+image: img/SJB/band.png
 title: "High School Band"
 date: 2017
 published: true
