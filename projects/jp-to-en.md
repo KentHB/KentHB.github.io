@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/wizards/wizards-poster.jpg
+image: img/jp-to-en/IMAGE.png
 title: "Experience with Japanese Translation"
 date: 2023 ~ Current
 published: true
@@ -13,7 +13,7 @@ summary: "..And by experience, I mean self-study."
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/wizards/wizards-logo.PNG" class="img-thumbnail" >
+  <img width="400px" src="../img/jp-to-en/header.webp" class="img-thumbnail" >
 </div>
 
 My mother’s side of the family is Japanese, and because of this, I was exposed to its language and culture from an early age. And while my English remains far more fluent, I’ve luckily developed a decent enough foundation in Japanese that I can somewhat translate the latter into the former. My process for translation is still in its most roughest stages. For comics (culturally known as “manga” in Japanese), I use free substitutes for Adobe Photoshop, not because of its price, but because of my desktop computer’s inability to run the program without crashing. For video interviews or livestreams, while I have dabbled with editing software similar to Sony Vegas (the most notable being the free video editor [“DaVinci Resolve”](https://www.blackmagicdesign.com/products/davinciresolve)), for captions with minimal editing, I just stick to Windows’ Movie Maker due to its simplicity.
