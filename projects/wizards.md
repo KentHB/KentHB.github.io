@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/wizards/wizards-poster.jpg
 title: "Japanese Wizards"
 date: 2018
 published: true
