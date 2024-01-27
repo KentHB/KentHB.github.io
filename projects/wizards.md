@@ -13,9 +13,7 @@ summary: "In 2018, my team for the annual Japanese Wizards Competition came in f
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/wizards/wizards-logo.PNG" class="img-thumbnail" >
 </div>
 
 Back when I was in Maryknoll High School (2018), our Japanese teacher suggested that I and two friends compete in the Japan-America Society of Hawaii's "Wizards Competition". We'd later finish in fourth place, beating out 14 other high schools from around the island. The competition itself was a breakneck game of trivia, with us having to answer questions centered around Japanese culture both historical and contemporary before any other of the competing teams. We had maybe two weeks to prepare in total, being assigned various facts about Japan to study and memorize, as well as having to practice our Japanese to pass the language fluidity and correctness segments.
