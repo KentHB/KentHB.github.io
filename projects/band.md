@@ -8,7 +8,7 @@ published: true
 labels:
   - High School
   - Band
-summary: "Played brass and woodwind for high school band."
+summary: "Played brass and woodwind for the high school band."
 ---
 
 <div class="text-center p-4">
