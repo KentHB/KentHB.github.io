@@ -20,4 +20,4 @@ Back when I was in Maryknoll High School (2018), our Japanese teacher suggested 
 
 At the time, we were a bunch of eager Sophomores with an affinity for Japanese culture, so the event was right up our alley. Our studies were a mixture of rote memorization, documentary marathons, tasteful viewings of Japanese animation, and speaking in Japanese with our teacher whenever we could. Soon enough, we'd start staying in our Japanese teacher's classroom late into the afternoon and came by on the weekends for more study sessions. I'd like to think it was a good lesson in crunch-time studying and putting our interests to the test. We may not have came in first, but we did knock the leading team down to second.
 
-For more about the organization behind the competition, see[here](https://www.jashawaii.org/).
+For more about the organization behind the competition, see [here](https://www.jashawaii.org/).
