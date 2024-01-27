@@ -9,7 +9,7 @@ labels:
   - Japanese
   - Competition
   - High School
-summary: "In 2018, my team for the annual Japanese Wizards Competition came in fourth."
+summary: "My team and I came in fourth for the annual Japan Wizards Competition."
 ---
 
 <div class="text-center p-4">
