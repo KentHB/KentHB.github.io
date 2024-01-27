@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/jp-to-en/IMAGE.png
 title: "Experience with Japanese Translation"
-date: 2023 ~ Current
+date: 2024
 published: true
 labels:
   - Japanese
