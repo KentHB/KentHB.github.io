@@ -6,9 +6,7 @@ title: "Reacting to JavaScript"
 date: 2024-01-17
 published: true
 labels:
-  - This page
-  - Is not final
-  - at all!!!
+  - JavaScript
 ---
 
 I am a complete newbie. My only experience prior to this class is roughly two semesters worth of knowledge in Java. Though, my first impressions with JavaScript (ES6) so far is “Wow this is a lot easier on the eyes”. I haven’t had to chug through entire websites dedicated to syntactic jargon like I did with Java, but then again it’s only week two.
