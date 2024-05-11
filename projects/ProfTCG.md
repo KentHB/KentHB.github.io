@@ -26,4 +26,4 @@ As a behind the scenes, each card has a variable for the associated Professor's 
 ## What did I do? What did I learn?
 I was responsible for making Cards. Card Images, the development of the Card Packs and user collection page (Your Cards). Most of it got scrapped or repurposed. I should've communicated and spoke up more with the group. There were concerns I had that I didn't voice until it was too late that resulted in a process more hectic than necessary. While the end result is functional, I could've done a lot more for the project visually or content-wise, and that feeling of there being a missed opportunity weighs me down a bit. However, what's done is done, all that's left is what lies ahead of me.
 
-And another note, for those interested in the site, see [here](https://github.com/ProfTCG/proftcg.github.io).
+And another note, for those interested in the site's github page, see [here](https://github.com/ProfTCG/proftcg.github.io).
